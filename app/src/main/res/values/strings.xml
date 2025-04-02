@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TASKTHREE 2</string>
+    <string name="search">Search</string>
+    <string name="search_description">Search for songs</string>
+    <string name="profile">Profile</string>
+    <string name="profile_description">Open profile</string>
+    <string name="fab_description">Play or pause music</string>
+    <string name="play_pause">Play or Pause</string>
+</resources>
